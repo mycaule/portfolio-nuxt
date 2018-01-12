@@ -1,6 +1,14 @@
-# portfolio-nuxt
+<p align="center">
+  Bitcoin Watchlist written with nuxt.js
+</p>
 
-> Nuxt.js project
+<p align="center">
+  <a href="http://travis-ci.org/mycaule/portfolio-nuxt"><img src="https://api.travis-ci.org/mycaule/portfolio-nuxt.svg?branch=master" alt="Build Status"></a>
+  <a href="https://david-dm.org/mycaule/portfolio-nuxt"><img src="https://david-dm.org/mycaule/portfolio-nuxt/status.svg" alt="dependencies Status"></a>
+  <a href="https://david-dm.org/mycaule/portfolio-nuxt?type=dev"><img src="https://david-dm.org/mycaule/portfolio-nuxt/dev-status.svg" alt="devDependencies Status"></a>
+  <br>
+  <br>
+</p>
 
 ## Build Setup
 
