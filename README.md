@@ -31,3 +31,7 @@ $ npm run deploy
 ```
 
 For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
+
+## References
+
+See also https://github.com/mycaule/portfolio written with Mavo and Parcel bundler.
